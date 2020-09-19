@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Salario del empleado</string>
+    <string name="campoEmpleado">Empleado</string>
+    <string name="campoSalario">Salario</string>
+    <string name="campoHorasEx">Horas Extras</string>
+    <string name="campoVlrHora">Vlr Hra Extra</string>
+    <string name="campoPension">Pension 4%</string>
+    <string name="campoSalud">Salud 4%</string>
+    <string name="campoSalarioT">Salario Total</string>
+    <string name="botonCalcular">CALCULAR</string>
+    <string name="menuSalario">Salario Minimo</string>
+    <string name="menuLimpiar">Limpiar Datos</string>
+</resources>
